@@ -1,0 +1,1 @@
+alert("Olá visitante, a ficha técnica dos smartphones acabou de ser adicionada ao site, confira já!!");
